@@ -1,6 +1,6 @@
 # 🫀 OrganBridge
 
-**Pakistan's First Unified Organ Donation Platform**
+**Pakistan's Organ Donation Platform**
 
 OrganBridge is a comprehensive web application designed to bridge the gap between organ donors, patients, and hospitals across Pakistan. The platform facilitates life-saving organ transplants through a secure, verified network.
 
@@ -49,49 +49,7 @@ OrganBridge is a comprehensive web application designed to bridge the gap betwee
 git clone https://github.com/yourusername/organbridge.git
 cd organbridge
 ```
-
-2. **Install dependencies**
-```bash
-npm install
-# or
-yarn install
-```
-
-3. **Start development server**
-```bash
-npm start
-# or
-yarn start
-```
-
-4. **Build for production**
-```bash
-npm run build
-# or
-yarn build
-```
-
-The application will be available at `http://localhost:3000`
-
 ---
-
-## 📁 Project Structure
-
-```
-organbridge/
-├── src/
-│   ├── OrganBridge.jsx      # Main application component
-│   ├── index.js              # Entry point
-│   └── index.css             # Global styles (optional)
-├── public/
-│   ├── index.html            # HTML template
-│   └── favicon.ico           # App icon
-├── package.json              # Dependencies
-└── README.md                 # This file
-```
-
----
-
 ## 🎨 Design System
 
 ### Color Palette
@@ -253,37 +211,6 @@ Border:          rgba(255,255,255,0.07)
 }
 ```
 
----
-
-## 🔐 Security Considerations
-
-### Current Implementation
-- Form validation on submission
-- Input sanitization
-- State management for authentication
-
-### Recommended Enhancements
-- Backend API integration
-- JWT authentication
-- HTTPS encryption
-- Database for persistent storage
-- Rate limiting
-- Input validation with libraries like Yup or Zod
-- CSRF protection
-- XSS prevention
-
----
-
-## 🌐 Browser Support
-
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
-- ✅ Opera 76+
-
----
-
 ## 📱 Responsive Breakpoints
 
 ```css
@@ -385,34 +312,6 @@ We welcome contributions to OrganBridge! Here's how you can help:
 
 ---
 
-## 🐛 Known Issues
-
-1. **Marquee Animation** - May stutter on low-end devices
-2. **Particle Canvas** - Performance impact on mobile devices
-3. **Form Validation** - Client-side only (needs backend)
-4. **Data Persistence** - No real database integration yet
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact & Support
-
-### Emergency Hotline
-📞 **1115** - 24/7 Emergency Organ Support
-
-### General Contact
-- 📧 Email: info@organbridge.pk
-- 🌐 Website: www.organbridge.pk
-- 📱 Hotline: 0800-ORGAN-PK
-- 📍 Location: Karachi, Pakistan
-
----
-
 ## 🙏 Acknowledgments
 
 - **Organ Donors** - For their selfless contribution to saving lives
@@ -420,17 +319,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Design Inspiration** - Modern healthcare platforms
 - **Open Source Community** - For tools and libraries
 - **Islamic Scholars** - For guidance on religious perspectives
-
----
-
-## 📈 Statistics
-
-- **12,400+** Registered Donors
-- **3,200+** Lives Saved
-- **280+** Partner Hospitals
-- **98%** Match Success Rate
-- **8** Lives one donor can save
-- **50,000+** Pakistanis waiting for organs
 
 ---
 
@@ -528,25 +416,6 @@ const CITIES = ["Karachi", "Lahore", "YourCity"];
 
 ---
 
-## 📚 Additional Resources
-
-- [Organ Donation in Islam](https://example.com)
-- [Medical Guidelines](https://example.com)
-- [Success Stories](https://example.com)
-- [FAQ](https://example.com)
-- [Hospital Partnership Program](https://example.com)
-
----
-
-## 🎬 Demo
-
-**Live Demo:** [organbridge.pk](https://organbridge.pk) *(coming soon)*
-
-**Video Demo:** [Watch on YouTube](https://youtube.com) *(coming soon)*
-
-**Screenshots:** See the `screenshots/` directory
-
----
 
 ## 💖 Support the Project
 
