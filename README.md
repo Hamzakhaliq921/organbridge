@@ -405,51 +405,5 @@ Edit the `CITIES` array:
 const CITIES = ["Karachi", "Lahore", "YourCity"];
 ```
 
----
-
-
-## 💖 Support the Project
-
-If OrganBridge has helped you or someone you know, consider:
-
-- ⭐ Starring the repository
-- 🔄 Sharing with others
-- 💰 Sponsoring development
-- 🤝 Contributing code
-- 📢 Spreading awareness
-
----
-
-## 📊 Analytics & Metrics
-
-Track the impact:
-- Daily active users
-- Successful matches
-- Response times
-- Geographic coverage
-- User satisfaction
-
----
-
-## 🌟 Star History
-
-Help OrganBridge grow by starring the repository!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/organbridge&type=Date)](https://star-history.com/#yourusername/organbridge&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ in Pakistan**
-
-**Saving Lives, One Match at a Time**
-
-[Report Bug](https://github.com/yourusername/organbridge/issues) · [Request Feature](https://github.com/yourusername/organbridge/issues) · [Join Community](https://discord.gg/organbridge)
-
-</div>
-
----
-
 *Last Updated: January 2025*
 *Version: 1.0.0*
