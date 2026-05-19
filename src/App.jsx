@@ -1405,6 +1405,7 @@ export default function OrganBridge() {
                 onMouseEnter={e => e.target.style.color = "#e02020"}
                 onMouseLeave={e => e.target.style.color = "#888"}>
                 {l}
+                
               </p>
             ))}
           </div>
